@@ -1,0 +1,17 @@
+  <style>
+      h1 {
+        background-color: darkred;
+        font-family: cursive;
+        font-size: 200%; 
+        border: dashed;
+      }
+      .notification {
+        background-color: darkred;
+        color: white;
+        text-decoration: none;
+        padding: 15px 26px;
+        position: relative;
+        display: inline-block;
+        border-radius: 2px;
+      }
+    </style>
